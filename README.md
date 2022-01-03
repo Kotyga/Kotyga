@@ -1,7 +1,8 @@
 # Hi, I'm :sparkles:_**Kotyga Mayya**_:sparkles:
-## I'm beginer data scientist
 
-# <div align="center">My skills & tools:</div>
+ I'm beginer data scientist
+
+### <div align="center">My skills & tools:</div>
 
 |   |   |
 |---|---|
@@ -10,5 +11,5 @@
 | <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>| <img align="left" alt="Markdown" width="30px" src="https://gitlab.linphone.org/uploads/-/system/project/avatar/453/kissclipart-api-icon-png-clipart-computer-icons-application-pr-46d0976647deed9c.png"/> |
 | <img align="left" alt="Markdown" width="26px" src="https://www.kaggle.com/static/images/education/km/advanced-sql.svg"/>| <img align="left" alt="Markdown" width="26px" src="https://www.clipartmax.com/png/full/200-2006334_its-no-wonder-its-so-popular-with-its-incredible-linux-flat-icon.png"/> |
 
-
+### <div align="center">You can contact me:</div>
 
