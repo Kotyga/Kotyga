@@ -1,4 +1,4 @@
-# Hi I'm :sparkles:_**Kotyga Mayya**_:sparkles:
+# Hi, I'm :sparkles:_**Kotyga Mayya**_:sparkles:
 ## I'm beginer data scientist
 
 <div align="center">My skills & tools:</div>
