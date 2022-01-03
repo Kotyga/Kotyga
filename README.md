@@ -3,4 +3,4 @@
 
 My skills & tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://www.freepngimg.com/thumb/android/72537-icons-python-programming-computer-social-tutorial.png" />][Python]
+<img align="left" alt="HTML5" width="26px" src="https://www.freepngimg.com/thumb/android/72537-icons-python-programming-computer-social-tutorial.png" /> Python 
