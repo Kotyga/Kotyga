@@ -12,4 +12,4 @@
 | <img align="middle" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>| <img align="middle" alt="Markdown" width="30px" src="https://gitlab.linphone.org/uploads/-/system/project/avatar/453/kissclipart-api-icon-png-clipart-computer-icons-application-pr-46d0976647deed9c.png"/> |  |  |  | 2 |
 | <img align="middle" alt="Markdown" width="26px" src="https://www.kaggle.com/static/images/education/km/advanced-sql.svg"/>| <img align="middle" alt="Markdown" width="26px" src="https://www.clipartmax.com/png/full/200-2006334_its-no-wonder-its-so-popular-with-its-incredible-linux-flat-icon.png"/> |  |  |  | 2 |
 
-[Gmail]: kotyga.m.m@gmail.com
+[Gmail]: <kotyga.m.m@gmail.com>
