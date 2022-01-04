@@ -10,3 +10,20 @@
 | <img align="middle" alt="HTML5" width="23px" src="https://itproger.com/img/tests/1585037968.svg" /> | <img align="middle" alt="HTML5" width="26px" src="https://ods.ai/ods/logo/ods.svg" />  |  |  |  | 2 |
 | <img align="middle" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>| <img align="middle" alt="Markdown" width="30px" src="https://gitlab.linphone.org/uploads/-/system/project/avatar/453/kissclipart-api-icon-png-clipart-computer-icons-application-pr-46d0976647deed9c.png"/> |  |  |  | 2 |
 | <img align="middle" alt="Markdown" width="26px" src="https://www.kaggle.com/static/images/education/km/advanced-sql.svg"/>| <img align="middle" alt="Markdown" width="26px" src="https://www.clipartmax.com/png/full/200-2006334_its-no-wonder-its-so-popular-with-its-incredible-linux-flat-icon.png"/> |  |  |  | 2 |
+
+
+<div class="frame">
+	<input type="checkbox" id="cb">
+	<label for="cb" class="button">Send mail</label>
+	<label for="cb" class="button reset">Reset</label>
+	<div class="circle"></div>
+	<div class="circle-outer"></div>
+	<svg class="icon mail">
+		<polyline points="119,1 119,69 1,69 1,1"></polyline>
+		<polyline points="119,1 60,45 1,1 119,1"></polyline>
+	</svg>
+	<svg class="icon plane">
+		<polyline points="119,1 1,59 106,80 119,1"></polyline>
+		<polyline points="119,1 40,67 43,105 69,73"></polyline>
+	</svg>
+</div>
