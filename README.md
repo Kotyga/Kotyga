@@ -6,6 +6,7 @@
 <center>I'm junior data scientist</center>
 
 <table>
+<thead>
     <tr>
         <th>
         Hard skills :computer: 
@@ -16,6 +17,8 @@
         You can contact me: 
         <th>
     <tr>
+<thead>
+<tbody>
     <tr>
         <td>
             <img align="middle" alt="HTML5" width="26px" src="https://www.freepngimg.com/thumb/android/72537-icons-python-programming-computer-social-tutorial.png"/>
@@ -60,4 +63,5 @@
             <a href="https://opendatascience.slack.com/team/U027HAWMBNG"><img align="middle" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91f64896-759a-41ae-8d14-d540f90c5870.png?auto=format&size=50" alt="ВК" weight = 27 height = 27></a>
         <td>
     <tr>
+<tbody>
 <table>
