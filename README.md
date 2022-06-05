@@ -21,7 +21,7 @@
         <td>
             <img align="middle" alt="HTML5" width="35px" src="https://toplogos.ru/images/logo-postgresql.png"/>
         <td>
-            <a href="mailto:kotyga.m.m@gmail.com"><img align="middle" src="https://googleupload.com/wp-content/uploads/2019/01/2000px-New_Logo_Gmail.svg_.png" alt="Котик" weight = 20 height = 20></a>
+            <a href="mailto:kotyga.m.m@gmail.com"><img align="middle" src="https://googleupload.com/wp-content/uploads/2019/01/2000px-New_Logo_Gmail.svg_.png" alt="Gmail" weight = 20 height = 20></a>
     <tr>
         <tr>
         <td>
@@ -37,7 +37,7 @@
         <td>
             <img align="middle" alt="Markdown" width="30px" src="https://gitlab.linphone.org/uploads/-/system/project/avatar/453/kissclipart-api-icon-png-clipart-computer-icons-application-pr-46d0976647deed9c.png"/>
         <td>
-            <a href="https://www.kaggle.com/mayyakotyga"><img align="middle" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/kaggle-logo.png" alt="kaggle" weight = 50 height = 40></a>
+            <a href="https://www.kaggle.com/mayyakotyga"><img align="middle" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" alt="kaggle" weight = 20 height = 20></a>
     <tr>
         <tr>
         <td>
@@ -45,7 +45,7 @@
         <td>
             <img align="middle" alt="Markdown" width="26px" src="https://www.clipartmax.com/png/full/200-2006334_its-no-wonder-its-so-popular-with-its-incredible-linux-flat-icon.png"/>
         <td>
-            <a href="https://opendatascience.slack.com/team/U027HAWMBNG"><img align="middle" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91f64896-759a-41ae-8d14-d540f90c5870.png?auto=format&size=50" alt="ВК" weight = 27 height = 27></a>
+            <a href="https://opendatascience.slack.com/team/U027HAWMBNG"><img align="middle" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91f64896-759a-41ae-8d14-d540f90c5870.png?auto=format&size=50" alt="slack" weight = 27 height = 27></a>
     <tr>
 <tbody>
 <table>
