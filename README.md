@@ -7,12 +7,14 @@
 
 <table>
     <tr>
-        <th colspan = "2">
+        <th>
         Hard skills :computer: 
-        <\th>
+        <th>
+        <th>
+        <th>
         <th>
         You can contact me: 
-        <\th>
+        <th>
     <tr>
     <tr>
         <td>
