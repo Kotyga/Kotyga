@@ -8,9 +8,8 @@
 <table>
 <thead>
     <tr>
-        <th>
+        <th colspan = "2">
         Hard skills :computer: 
-        <th>
         <th>
         You can contact me: 
     <tr>
