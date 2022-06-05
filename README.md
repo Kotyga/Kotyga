@@ -11,6 +11,8 @@
         Hard skills :computer: 
         <th>
         <th>
+        <th>
+        <th>
         You can contact me: 
         <th>
     <tr>
