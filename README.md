@@ -4,9 +4,9 @@
 
 <center>I'm middle data analyst </center>
 
-<p align="center">
+<div style="display: flex; justify-content: center;">
   <img alig src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kotyga&theme=solarized_dark" />
-</p>
+</div>
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kotyga&theme=solarized_dark" />
