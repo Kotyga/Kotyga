@@ -4,7 +4,7 @@
 
 <p> <img src=https://komarev.com/ghpvc/?username=Kotyga alt=Kotyga /> </p>
 
-<center>I'm junior data scientist</center>
+<center>I'm middle data analyst </center>
 
 <table>
 <thead>
