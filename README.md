@@ -3,7 +3,9 @@
 <h1>Hi, I'm :sparkles:<span style="color: #4682B4;"><em><b>Kotyga Mayya<em><b></span>:sparkles:</h1>
 
 <p> <img src=https://komarev.com/ghpvc/?username=Kotyga alt=Kotyga /> </p>
-
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Kotyga&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 <center>I'm middle data analyst </center>
 <table>
 <thead>
