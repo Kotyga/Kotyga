@@ -5,7 +5,6 @@
 <p> <img src=https://komarev.com/ghpvc/?username=Kotyga alt=Kotyga /> </p>
 
 <center>I'm middle data analyst </center>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kotyga)](https://github.com/Kotyga/github-profile-trophy)
 <table>
 <thead>
     <tr>
