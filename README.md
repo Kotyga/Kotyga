@@ -2,7 +2,7 @@
 
 <p> <img src=https://komarev.com/ghpvc/?username=Kotyga alt=Kotyga /> </p>
 
-<center>I'm middle data analyst </center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+Maiia+Kotyga%2C+middle+data+analyst" alt="Typing SVG" /></a>
 
 <div style="display: flex; justify-content: center;">
   <img alig src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kotyga&theme=nord_bright" />
