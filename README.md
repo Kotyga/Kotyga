@@ -2,6 +2,8 @@
 
 <h1>Hi, I'm :sparkles:<span style="color: #4682B4;"><em><b>Kotyga Mayya<em><b></span>:sparkles:</h1>
 
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"/>
+<p> <img src=https://komarev.com/ghpvc/?username=Kotyga alt=Kotyga /> </p>
 
 <center>I'm junior data scientist</center>
 
