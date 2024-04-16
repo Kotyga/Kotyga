@@ -7,4 +7,8 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=Kotyga&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 <center>I'm middle data analyst </center>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
+<p align="center">
+  <img alig src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kotyga&theme=solarized_dark" />
+</p>
+
