@@ -25,4 +25,5 @@
 </div>
 
 <h1> Activity </h1>
+
 ![My actions](https://github.com/Kotyga/Kotyga/blob/output/github-contribution-grid-snake.svg)
