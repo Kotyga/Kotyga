@@ -24,4 +24,5 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=Kotyga&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
+<h1> Activity </h1>
 ![My actions](https://github.com/Kotyga/Kotyga/blob/output/github-contribution-grid-snake.svg)
