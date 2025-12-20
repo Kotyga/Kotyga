@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Maiia+Kotyga;Senior++Data+Scientist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Maiia+Kotyga;Lead++Data+Scientist" alt="Typing SVG" /></a>
 <hr>
 <h1> Profile info </h1>
 
@@ -29,5 +29,6 @@
 <h1> Activity </h1>
 
 ![My actions](https://github.com/Kotyga/Kotyga/blob/master/images/breakout-light.svg)
+
 
 
